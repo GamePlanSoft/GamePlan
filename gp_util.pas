@@ -1,4 +1,6 @@
 
+{Copyright (c), Jean-Pierre P. Langlois, 2007-2022}
+
 unit GP_Util;
 
 interface
