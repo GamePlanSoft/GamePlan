@@ -1,3 +1,5 @@
+{Copyright (c), Jean-Pierre P. Langlois, 2007-2022}
+
 unit GP_Graph;
 {$R MyStrings.res}
 
