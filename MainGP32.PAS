@@ -1,3 +1,5 @@
+{Copyright (c), Jean-Pierre P. Langlois, 2007-2022}
+
 unit MainGP32;
 
 {This defines the GamePlan desktop. It contains all menu and buttons for
