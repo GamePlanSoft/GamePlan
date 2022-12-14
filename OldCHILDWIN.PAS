@@ -1,3 +1,5 @@
+{Copyright (c), Jean-Pierre P. Langlois, 2007-2022}
+
 unit OldCHILDWIN;
 
 {This defines the typical child window. It contains all the graphing and
